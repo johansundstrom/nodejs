@@ -34,7 +34,8 @@ Kom igång med Node.js och NPM
 #### Installation via terminal
 
 ```sudo apt install nodejs-legacy```
-```sudo apt install npm```
+
+```sudo apt install npm``` //mac
 
 ## Versionskontroll
 
