@@ -45,6 +45,7 @@ npm --version //3.5.2
 
 #### Uppgradera till senaste
 ```sudo npm install npm@latest --global```
+```sudo npm i --global npm```
 
 
 #### eller...
@@ -62,6 +63,7 @@ npm --version //5.6.0
 ## Notera kommandoradsväxlar
 
 * https://nodejs.org/dist/latest-v9.x/docs/api/
+
 Command Line Options
 
 ## Installera ett paket
