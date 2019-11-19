@@ -138,6 +138,11 @@ server.listen(port, hostname, () => {
 npm install express --save //save to package.json
 npm install body-parser --save
 ```
+eller...
+
+```javascript
+npm install express-generator -g //boilerplate
+```
 eller i package.json...
 ```javascript
 "dependencies": {
@@ -168,7 +173,8 @@ app.listen(3000, function(){
 
 ## Installera MongoDB
 
-
-
+```javascript
+npm install mongodb
+```
 
 
